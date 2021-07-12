@@ -1,0 +1,144 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "user_datas": [
+            {
+                "datas": [
+                    {
+                        "code": "2021-03-19",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "true"
+                            }
+                        ],
+                        "value": "缺卡(-), 缺卡(-)"
+                    },
+                    {
+                        "code": "2021-03-22",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "true"
+                            }
+                        ],
+                        "value": "缺卡(-), 缺卡(-)"
+                    },
+                    {
+                        "code": "2021-03-16",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "true"
+                            }
+                        ],
+                        "value": "缺卡(-), 缺卡(-)"
+                    },
+                    {
+                        "code": "2021-03-21",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "false"
+                            }
+                        ],
+                        "value": "无需打卡(-), 无需打卡(-)"
+                    },
+                    {
+                        "code": "50103",
+                        "features": [],
+                        "value": "3766663"
+                    },
+                    {
+                        "code": "52107",
+                        "features": [],
+                        "value": "0.0小时"
+                    },
+                    {
+                        "code": "2021-03-20",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "false"
+                            }
+                        ],
+                        "value": "无需打卡(-), 无需打卡(-)"
+                    },
+                    {
+                        "code": "52203",
+                        "features": [],
+                        "value": "0"
+                    },
+                    {
+                        "code": "52101",
+                        "features": [],
+                        "value": "5 天"
+                    },
+                    {
+                        "code": "52105",
+                        "features": [],
+                        "value": "0"
+                    },
+                    {
+                        "code": "52201",
+                        "features": [],
+                        "value": "0"
+                    },
+                    {
+                        "code": "52207",
+                        "features": [],
+                        "value": "5 天"
+                    },
+                    {
+                        "code": "2021-03-18",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "true"
+                            }
+                        ],
+                        "value": "缺卡(-), 缺卡(-)"
+                    },
+                    {
+                        "code": "52108",
+                        "features": [],
+                        "value": "排班测试"
+                    },
+                    {
+                        "code": "52102",
+                        "features": [],
+                        "value": "0 天"
+                    },
+                    {
+                        "code": "52104",
+                        "features": [],
+                        "value": "2700"
+                    },
+                    {
+                        "code": "2021-03-23",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "false"
+                            }
+                        ],
+                        "value": "无需打卡(-), 无需打卡(-)"
+                    },
+                    {
+                        "code": "2021-03-17",
+                        "features": [
+                            {
+                                "key": "Abnormal",
+                                "value": "true"
+                            }
+                        ],
+                        "value": "缺卡(-), 缺卡(-)"
+                    }
+                ],
+                "name": "小李",
+                "user_id": "ec8ddg56"
+            }
+        ]
+    }
+}

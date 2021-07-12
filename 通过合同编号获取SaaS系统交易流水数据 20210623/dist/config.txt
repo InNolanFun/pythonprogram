@@ -1,0 +1,10 @@
+{
+    "bear": "Bearer 3437ac7a-5b06-4dea-8a35-c8d08b6adb09",
+    "module": "1",
+    "contractNumber": "
+    TY20210600029
+GX20210600007
+   SJZ20201100000
+
+    "
+}

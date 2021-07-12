@@ -1,0 +1,6 @@
+Wed Jun 23 11:56:44 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=0&size=60&contractNumber=TY20210600029
+Wed Jun 23 11:56:44 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=1&size=60&contractNumber=TY20210600029
+Wed Jun 23 11:56:44 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=0&size=60&contractNumber=GX20210600007
+Wed Jun 23 11:56:45 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=1&size=60&contractNumber=GX20210600007
+Wed Jun 23 11:56:45 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=0&size=60&contractNumber=SJZ20201100000
+Wed Jun 23 11:56:46 2021:正在处理url:http://platform.taoqicar.com/bills/api/paybills?page=1&size=60&contractNumber=SJZ20201100000

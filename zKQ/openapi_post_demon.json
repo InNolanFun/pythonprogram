@@ -1,0 +1,13 @@
+{
+    "current_group_only": true,//是否只包含当前考勤组
+    "end_date": 20210323,//结束时间
+    "locale": "zh",//语言类型
+    "need_history": true,//是否包含历史数据
+    "start_date": 20210316,//开始时间
+    "stats_type": "month",//统计类型  daily：日度统计, month：月度统计
+    "user_ids": [
+        "ec8ddg56",
+        "4dbb52f2",
+        "4167842e"
+    ]
+}
